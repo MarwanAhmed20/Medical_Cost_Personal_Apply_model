@@ -1,5 +1,8 @@
 # Medical-Cost-Personal
 
+The dataset can be downloaded from:
+https://www.kaggle.com/mirichoi0218/insurance
+
 1-load dataset 
     	First we load the dataset from Kaggle
 2- data prepossessing
