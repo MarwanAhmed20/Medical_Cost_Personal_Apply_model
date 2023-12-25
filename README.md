@@ -3,9 +3,9 @@
 The dataset can be downloaded from:
 https://www.kaggle.com/mirichoi0218/insurance
 
-- load dataset
+## - load dataset
   
-- data prepossessing
+## - data prepossessing
   
 •	Chick out for missing value in data and there aren’t .
 •	transform categorical data :
