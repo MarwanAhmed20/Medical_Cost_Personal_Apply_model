@@ -7,7 +7,8 @@ https://www.kaggle.com/mirichoi0218/insurance
   
 ## - data prepossessing
   
-•	Chick out for missing value in data and there aren’t .
+•	Chick out for missing value in data and there aren’t.
+
 •	transform categorical data :
 	encoded the sex , smoker and region rows to le_sex , le_smoker and le_region.
 •	One hot encoding in array that has region_encoded to 3 (region_0, region_1, region_2, region_3).
