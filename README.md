@@ -1,6 +1,6 @@
 # Aplly models in Medical Cost Personal dataset
 
-The dataset can be downloaded from:
+- The dataset can be downloaded from:
 https://www.kaggle.com/mirichoi0218/insurance
 
 ## - load dataset
@@ -21,9 +21,9 @@ https://www.kaggle.com/mirichoi0218/insurance
 
 ## - train and test split  
 	
- X= ['age','sex_encoded','bmi','children','smoker_encoded','region_1','region_2','region_3'] (features)
+ 	X= ['age','sex_encoded','bmi','children','smoker_encoded','region_1','region_2','region_3'] (features)
  
- Y= ['charges'] (target)
+	 Y= ['charges'] (target)
 
 then split to X_train, X_test, y_train, y_test.
 
@@ -31,7 +31,7 @@ then split to X_train, X_test, y_train, y_test.
 
 •	Decision Tree Regressor Model
 
-  used parameter DecisionTreeRegressor(criterion='mse', splitter='best', max_depth=10,random_state=33)
+ 	 used parameter DecisionTreeRegressor(criterion='mse', splitter='best', max_depth=10,random_state=33)
 
 •	Linear Regression Model  
 
